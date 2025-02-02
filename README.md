@@ -9,7 +9,7 @@
 - ⚡ Fun fact: My first coding experiment was in 2004 with Pine from which I switched to studying natural languages for years. I found my way back to programming in 2022. I realized I loved Excel above all else in my job as a Finnish teacher.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,php,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,php,posgresql)](https://skillicons.dev)
 
 
 <!--
