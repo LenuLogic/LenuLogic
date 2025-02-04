@@ -5,7 +5,7 @@
 </h1> 
 </div>
 
-I'm a Class of 2025 full-stack development student at SASKY, Huittinen, transitioning from teaching Finnish language and literature to IT. My niche is yet to be found, as I tend to take an interest in everything. :grin:
+I'm a Class of 2025 full-stack development student at SASKY, Huittinen, transitioning from teaching Finnish language and literature to IT. My niche is yet to be found, as I tend to take an interest in everything. :blush:
 
 - 🔭 I’m currently working on my final frontend project for my full-stack studies at SASKY. It is a collaborative student project to create a browser-based digital signage system. It is intended for real-life use once it is finished.
 - 🌱 Next I will take part in a four-month CMS course which will complete my studies.
