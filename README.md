@@ -5,13 +5,13 @@
 </h1> 
 </div>
 
-I'm a Class of 2025 full-stack development student at SASKY, Huittinen, transitioning from teaching Finnish language and literature to IT. My niche is yet to be found, as I tend to take an interest in everything. :blush:
+I'm a Class of 2025 full-stack development student at SASKY, Huittinen, transitioning from teaching Finnish language and literature to IT. My interests are wide-ranging, and mastering any new skill equals happiness to me. :blush:
 
-- 🔭 I’m currently working on my final frontend project for my full-stack studies at SASKY. It is a collaborative student project to create a browser-based digital signage system. It is intended for real-life use once it is finished.
-- 🌱 Next I will take part in a four-month CMS course which will complete my studies.
-- ⚡ Fun fact: My first coding experiment was in 2004 with Pine from which I switched to studying natural languages for years. I found my way back to programming in 2022. I realized I enjoyed the IT side of my job too much.
+- 🔭 I’m currently looking into Scrum and Kanban, because I want to know more about how an agile development process works.
+- 🌱 Next I will take part in a three-month CMS course which will complete my studies.
+- ⚡ Fun fact: My first coding experiment was in 2004 with Pine from which I switched to studying natural languages for years. I found my way back to programming in 2022. I realized I enjoyed the IT side of my job a bit too much to stick with teaching.
 
-- :green_heart: I'm looking for an internship or an entry level job in frontend and/or backend development. 
+- :green_heart: I'm looking for an internship or an entry level job in frontend and/or backend development or project management. 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,php,postgresql)](https://skillicons.dev)
